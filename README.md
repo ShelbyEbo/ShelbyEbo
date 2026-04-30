@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Melzira Ebo 👋
 
-<!--
-**ShelbyEbo/ShelbyEbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Developer · Open to opportunities
 
-Here are some ideas to get you started:
+I'm a junior developer trained at **42 School**, passionate about building things that matter. I have a growing interest in blockchain and its applications in game development and VR — the future of tech, in my opinion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently open to **remote junior developer positions**, especially in companies that value innovation and inclusion.
+
+---
+
+### 🛠️ Tech stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
+
+---
+
+### 🌱 Currently learning
+
+- Game development
+- VR technologies
+- English (B1 → B2)
+
+---
+
+### 📫 Contact me
+
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/orisa-melzira-ebo-aab95a267/)
+- Email: shelbyebo1711@gmail.com
+
+---
+
+*Open to remote opportunities — based in Luanda, Angola 🇦🇴*
