@@ -28,7 +28,7 @@ I'm currently open to **remote junior developer positions**, especially in compa
 
 ### 📫 Contact me
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/orisa-melzira-ebo-aab95a267/)
+- LinkedIn: [linkedin.com/in/orisa-melzira-ebo-aab95a267/](https://www.linkedin.com/in/orisa-melzira-ebo-aab95a267/)
 - Email: shelbyebo1711@gmail.com
 
 ---
