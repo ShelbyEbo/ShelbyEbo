@@ -22,7 +22,7 @@ I'm currently open to **remote junior developer positions**, especially in compa
 
 - Game development
 - VR technologies
-- English (B1 → B2)
+- English (B2)
 
 ---
 
