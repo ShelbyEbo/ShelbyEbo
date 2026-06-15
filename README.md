@@ -21,6 +21,9 @@ I'm currently open to **remote junior developer positions**, especially in compa
 ### 🌱 Currently learning
 
 - Game development
+- Blockchain
+- Cryptography and maths
+- Cyersecurity
 - VR technologies
 - English (B2)
 
